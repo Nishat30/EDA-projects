@@ -20,16 +20,6 @@ This repository contains multiple datasets, each analyzed in its own project fol
 - **Focus**: Analyzed how acidity, alcohol content, and other factors affect wine quality.
 - **Visuals**: Box plots, heatmaps, and correlation matrix visualizations.
 
-### 🌸 **Iris Dataset EDA**
-- **Dataset**: Iris flower dataset.
-- **Focus**: Explored the correlation between petal and sepal features to predict flower species.
-- **Visuals**: Scatter plots, histograms, and pair plots.
-
-### 🚢 **Titanic EDA**
-- **Dataset**: Titanic dataset with passenger details.
-- **Focus**: Analyzed survival rates based on features such as age, gender, and class.
-- **Visuals**: Bar plots, survival rates visualization, and heatmaps.
-
 And more datasets will be added as the project evolves.
 
 ## 🛠 **Technologies and Libraries Used**
@@ -57,4 +47,5 @@ The repo is organized by individual datasets, with each folder containing the fo
 
 ## 🚀 **How to Use This Repo**
 To get started, clone this repository:
-
+```bash
+https://github.com/Nishat30/EDA-projects.git
